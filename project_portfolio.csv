@@ -1,0 +1,25 @@
+project_id,project_name,technology,region,stage,project_manager,epc_vendor,capacity_mw,planned_start,planned_cod,forecast_cod,schedule_variance_days,baseline_budget_usd,actual_spend_usd,budget_variance_pct,percent_complete,risk_score,portfolio_health,commercial_operation_year
+MN8-001,Texas Battery Project 1,Battery Storage,Texas,Commissioning,L. Kim,BrightPath,102,2025-04-05,2025-11-23,2025-12-28,35,90722775.0,75843229.0,3.22,81.0,44.9,Watch,2025
+MN8-002,Southwest Solar Project 2,Solar PV,Southwest,Development,D. Singh,SunPeak,103,2025-04-08,2026-06-20,2026-06-05,-15,96478133.0,11319117.0,-6.93,12.6,38.1,Healthy,2026
+MN8-003,Northeast Battery Project 3,Battery Storage,Northeast,Construction,S. Patel,StorageCore,154,2025-10-09,2026-04-10,2026-03-28,-13,129749912.0,90008895.0,3.37,67.1,19.7,Healthy,2026
+MN8-004,Southeast Solar Project 4,Solar PV,Southeast,Engineering,A. Lopez,HelioWorks,166,2025-02-03,2026-02-12,2026-01-27,-16,152642714.0,64151094.0,10.01,38.2,51.6,Watch,2026
+MN8-005,Northeast Hybrid Project 5,Hybrid Solar + Storage,Northeast,Engineering,R. Johnson,SunPeak,131,2025-08-18,2026-04-18,2026-05-21,33,157583538.0,72202263.0,10.67,41.4,47.4,Watch,2026
+MN8-006,Northeast Battery Project 6,Battery Storage,Northeast,Operational,A. Lopez,SunPeak,132,2025-10-07,2027-03-31,2027-04-12,12,121666858.0,115335692.0,-4.03,98.8,8.0,Healthy,2027
+MN8-007,Midwest Battery Project 7,Battery Storage,Midwest,Operational,R. Johnson,HelioWorks,99,2025-02-13,2026-01-01,2025-12-21,-11,80463128.0,86064428.0,6.99,100.0,8.0,Healthy,2025
+MN8-008,Midwest Solar Project 8,Solar PV,Midwest,Engineering,S. Patel,BrightPath,148,2025-02-20,2026-07-10,2026-08-04,25,154778612.0,43697017.0,3.71,27.2,62.8,Watch,2026
+MN8-009,Southeast Battery Project 9,Battery Storage,Southeast,Construction,M. Chen,SunPeak,109,2025-09-08,2027-02-20,2027-02-21,1,89147502.0,59799044.0,-7.37,72.4,37.2,Healthy,2027
+MN8-010,Texas Solar Project 10,Solar PV,Texas,Commissioning,D. Singh,HelioWorks,182,2025-05-03,2026-02-15,2026-04-08,52,184230490.0,148513330.0,-7.63,87.3,59.5,At Risk,2026
+MN8-011,Southwest Solar Project 11,Solar PV,Southwest,Construction,S. Patel,GridVolt,244,2025-08-05,2026-06-16,2026-07-07,21,234940572.0,124406406.0,-4.97,55.7,43.3,Watch,2026
+MN8-012,Northeast Battery Project 12,Battery Storage,Northeast,Engineering,S. Patel,GridVolt,149,2025-10-13,2026-10-13,2026-10-11,-2,118068735.0,54713612.0,-5.9,49.2,37.0,Healthy,2026
+MN8-013,Texas Battery Project 13,Battery Storage,Texas,Commissioning,L. Kim,StorageCore,68,2025-03-21,2025-12-07,2025-12-28,21,61354008.0,55575569.0,8.0,83.9,54.3,Watch,2025
+MN8-014,Southwest Battery Project 14,Battery Storage,Southwest,Construction,A. Lopez,SunPeak,159,2025-09-09,2026-12-16,2026-11-01,-45,127638574.0,115157270.0,5.47,85.5,30.1,Healthy,2026
+MN8-015,Northeast Battery Project 15,Battery Storage,Northeast,Commissioning,S. Patel,StorageCore,127,2025-02-10,2026-03-19,2026-04-15,27,117934237.0,103470502.0,3.41,84.8,43.1,Watch,2026
+MN8-016,Midwest Solar Project 16,Solar PV,Midwest,Operational,M. Chen,BrightPath,125,2025-09-04,2027-01-17,2026-12-30,-18,119466162.0,113848694.0,-4.67,100.0,8.0,Healthy,2026
+MN8-017,Southeast Battery Project 17,Battery Storage,Southeast,Construction,A. Lopez,BrightPath,81,2025-09-25,2026-12-20,2027-02-15,57,65237269.0,43320275.0,-8.01,72.2,62.4,At Risk,2027
+MN8-018,Texas Solar Project 18,Solar PV,Texas,Development,S. Patel,BrightPath,172,2025-05-08,2025-12-03,2025-11-21,-12,161216237.0,9217346.0,-5.02,6.0,57.2,Watch,2025
+MN8-019,Texas Hybrid Project 19,Hybrid Solar + Storage,Texas,Commissioning,S. Patel,StorageCore,137,2025-09-25,2026-05-27,2026-05-08,-19,177789618.0,168317789.0,10.34,85.8,48.1,Healthy,2026
+MN8-020,Southeast Hybrid Project 20,Hybrid Solar + Storage,Southeast,Engineering,L. Kim,GridVolt,275,2025-07-07,2026-10-06,2026-09-29,-7,354748903.0,162165653.0,9.74,41.7,58.7,Watch,2026
+MN8-021,Southwest Battery Project 21,Battery Storage,Southwest,Operational,A. Lopez,GridVolt,135,2025-08-17,2026-10-02,2026-10-16,14,111055734.0,115127357.0,4.12,99.6,8.0,Healthy,2026
+MN8-022,Midwest Solar Project 22,Solar PV,Midwest,Development,A. Lopez,SunPeak,221,2025-04-19,2026-02-05,2026-02-17,12,199306510.0,15805677.0,5.22,7.5,62.0,Watch,2026
+MN8-023,Texas Battery Project 23,Battery Storage,Texas,Engineering,S. Patel,HelioWorks,48,2025-06-03,2026-08-20,2026-07-15,-36,42531382.0,15445262.0,4.47,34.8,43.7,Healthy,2026
+MN8-024,Southeast Battery Project 24,Battery Storage,Southeast,Construction,R. Johnson,GridVolt,161,2025-04-26,2026-06-22,2026-06-10,-12,133229382.0,120190502.0,3.89,86.8,35.7,Healthy,2026

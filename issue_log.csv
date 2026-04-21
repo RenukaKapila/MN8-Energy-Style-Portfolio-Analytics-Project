@@ -1,0 +1,94 @@
+issue_id,project_id,opened_date,closed_date,root_cause,severity,status,impact_days,impact_cost_usd,owner_function,requires_exec_escalation
+ISS-0001,MN8-001,2025-10-14,2025-11-19,Interconnection delay,Medium,Closed,29,93509.0,Engineering,No
+ISS-0002,MN8-001,2025-08-02,2025-09-21,Design revision,High,Closed,45,224050.0,Procurement,Yes
+ISS-0003,MN8-001,2025-09-07,2025-09-27,Supply chain,Low,Closed,1,29229.0,Project Controls,No
+ISS-0004,MN8-001,2025-09-28,2025-10-15,Weather,Low,Open,5,74148.0,Construction,No
+ISS-0005,MN8-001,2025-08-02,2025-09-13,Supply chain,High,Closed,31,222702.0,Development,Yes
+ISS-0006,MN8-001,2025-09-06,2025-10-17,Supply chain,High,Closed,22,173235.0,Construction,Yes
+ISS-0007,MN8-002,2025-08-06,2025-09-01,Permit approval,Medium,Closed,13,91238.0,Construction,No
+ISS-0008,MN8-002,2025-11-10,2025-12-13,Equipment lead time,Medium,Closed,21,87279.0,Development,No
+ISS-0009,MN8-002,2025-09-10,2025-10-09,Design revision,Medium,Closed,15,92484.0,Engineering,No
+ISS-0010,MN8-003,2025-10-02,2025-10-21,Contractor productivity,Medium,Closed,18,58581.0,Construction,No
+ISS-0011,MN8-003,2025-09-02,2025-10-23,Contractor productivity,High,Open,38,141423.0,Engineering,Yes
+ISS-0012,MN8-003,2025-08-22,2025-08-29,Site access,Low,Open,9,35589.0,Construction,No
+ISS-0013,MN8-004,2025-09-19,2025-11-11,Interconnection delay,High,Closed,32,168984.0,Development,Yes
+ISS-0014,MN8-004,2025-12-17,2026-01-06,Interconnection delay,Medium,Closed,9,43627.0,Procurement,No
+ISS-0015,MN8-004,2025-09-09,2025-10-10,Permit approval,Medium,Closed,20,10967.0,Procurement,No
+ISS-0016,MN8-005,2025-08-01,2025-09-19,Weather,High,Closed,36,253053.0,Development,Yes
+ISS-0017,MN8-005,2025-09-17,2025-09-19,Quality rework,Low,Closed,6,80677.0,Procurement,No
+ISS-0018,MN8-005,2025-10-10,2025-11-10,Site access,High,Closed,30,179906.0,Development,Yes
+ISS-0019,MN8-005,2025-12-01,2026-01-06,Design revision,Medium,Closed,7,5397.0,Development,No
+ISS-0020,MN8-005,2025-09-09,2025-09-21,Equipment lead time,Medium,Closed,19,119682.0,Engineering,No
+ISS-0021,MN8-005,2025-10-20,2025-11-10,Supply chain,Low,Closed,1,0.0,Procurement,No
+ISS-0022,MN8-006,2025-10-17,2025-11-23,Permit approval,Medium,Closed,18,11051.0,Engineering,No
+ISS-0023,MN8-006,2025-10-02,2025-10-17,Interconnection delay,Medium,Closed,24,5327.0,Project Controls,No
+ISS-0024,MN8-006,2025-11-18,2025-11-23,Design revision,Low,Closed,0,108598.0,Development,No
+ISS-0025,MN8-007,2025-09-18,2025-09-30,Interconnection delay,Low,Closed,6,0.0,Procurement,No
+ISS-0026,MN8-007,2025-09-02,2025-09-28,Contractor productivity,Low,Closed,16,54176.0,Engineering,No
+ISS-0027,MN8-007,2025-09-22,2025-10-07,Site access,Low,Closed,0,0.0,Development,No
+ISS-0028,MN8-008,2025-12-24,2026-01-11,Site access,Medium,Closed,11,147708.0,Project Controls,No
+ISS-0029,MN8-008,2025-09-14,2025-11-01,Site access,High,Closed,23,135419.0,Procurement,Yes
+ISS-0030,MN8-008,2025-09-09,2025-10-17,Supply chain,Medium,Closed,6,73657.0,Engineering,No
+ISS-0031,MN8-008,2025-11-08,2025-12-11,Weather,Low,Closed,2,74130.0,Construction,No
+ISS-0032,MN8-009,2025-09-08,2025-10-13,Equipment lead time,High,Closed,20,165762.0,Project Controls,No
+ISS-0033,MN8-009,2025-08-25,2025-09-24,Weather,Low,Closed,5,119370.0,Development,No
+ISS-0034,MN8-009,2025-12-11,2026-01-31,Weather,High,Open,29,166090.0,Engineering,Yes
+ISS-0035,MN8-009,2025-12-09,2025-12-28,Site access,Low,Closed,3,46865.0,Development,No
+ISS-0036,MN8-010,2025-12-04,2026-01-30,Weather,High,Closed,20,139961.0,Development,No
+ISS-0037,MN8-010,2025-12-26,2026-01-05,Permit approval,Low,Closed,3,18923.0,Project Controls,No
+ISS-0038,MN8-010,2025-10-20,2025-11-14,Equipment lead time,Low,Closed,0,0.0,Engineering,No
+ISS-0039,MN8-010,2025-11-23,2026-01-31,Supply chain,High,Closed,20,217635.0,Project Controls,No
+ISS-0040,MN8-010,2025-09-20,2025-10-22,Permit approval,Medium,Closed,14,69930.0,Construction,No
+ISS-0041,MN8-011,2025-10-07,2025-10-25,Contractor productivity,Low,Closed,0,54890.0,Development,No
+ISS-0042,MN8-011,2025-11-15,2025-11-17,Contractor productivity,Low,Closed,15,63761.0,Development,No
+ISS-0043,MN8-011,2025-09-22,2025-11-26,Weather,High,Closed,29,163738.0,Development,Yes
+ISS-0044,MN8-011,2025-08-27,2025-09-23,Design revision,Medium,Open,9,114148.0,Project Controls,No
+ISS-0045,MN8-011,2025-09-05,2025-09-30,Design revision,Low,Closed,5,0.0,Project Controls,No
+ISS-0046,MN8-011,2025-08-15,2025-10-12,Quality rework,Medium,Closed,19,0.0,Development,No
+ISS-0047,MN8-012,2025-11-13,2025-12-28,Permit approval,Medium,Closed,16,70466.0,Engineering,No
+ISS-0048,MN8-012,2025-08-25,2025-09-28,Site access,High,Closed,20,166265.0,Project Controls,No
+ISS-0049,MN8-013,2025-11-02,2025-12-03,Supply chain,Medium,Closed,5,0.0,Engineering,No
+ISS-0050,MN8-013,2025-12-18,2026-02-04,Weather,High,Closed,29,136371.0,Construction,Yes
+ISS-0051,MN8-013,2025-12-14,2026-01-22,Design revision,Medium,Open,9,0.0,Development,No
+ISS-0052,MN8-013,2025-11-15,2025-12-15,Weather,Low,Closed,13,0.0,Project Controls,No
+ISS-0053,MN8-013,2025-12-16,2025-12-28,Site access,Low,Closed,0,88777.0,Procurement,No
+ISS-0054,MN8-013,2025-09-09,2025-10-10,Weather,Medium,Closed,2,109695.0,Development,No
+ISS-0055,MN8-014,2025-11-23,2025-12-05,Interconnection delay,Low,Closed,2,0.0,Project Controls,No
+ISS-0056,MN8-014,2025-12-15,2026-01-08,Interconnection delay,Medium,Closed,15,41743.0,Project Controls,No
+ISS-0057,MN8-014,2025-12-23,2026-01-24,Supply chain,Medium,Closed,7,957.0,Development,No
+ISS-0058,MN8-014,2025-10-10,2025-11-06,Equipment lead time,Low,Closed,8,117991.0,Construction,No
+ISS-0059,MN8-015,2025-12-08,2025-12-26,Contractor productivity,Medium,Closed,11,17345.0,Procurement,No
+ISS-0060,MN8-015,2025-10-22,2025-10-24,Weather,Low,Closed,8,49162.0,Construction,No
+ISS-0061,MN8-015,2025-09-20,2025-11-01,Supply chain,High,Closed,9,155419.0,Construction,No
+ISS-0062,MN8-016,2025-08-21,2025-09-25,Contractor productivity,Medium,Closed,2,116483.0,Construction,No
+ISS-0063,MN8-016,2025-10-07,2025-10-29,Permit approval,Low,Closed,12,9494.0,Procurement,No
+ISS-0064,MN8-016,2025-11-09,2025-12-06,Supply chain,Medium,Open,18,11138.0,Construction,No
+ISS-0065,MN8-016,2025-10-08,2025-10-22,Interconnection delay,Medium,Closed,12,52468.0,Engineering,No
+ISS-0066,MN8-017,2025-09-08,2025-10-15,Supply chain,Medium,Closed,0,49977.0,Engineering,No
+ISS-0067,MN8-017,2025-10-06,2025-10-15,Contractor productivity,Low,Closed,0,27820.0,Engineering,No
+ISS-0068,MN8-017,2025-10-19,2025-12-08,Supply chain,High,Closed,35,129563.0,Construction,Yes
+ISS-0069,MN8-018,2025-08-19,2025-09-18,Weather,Medium,Closed,10,66056.0,Project Controls,No
+ISS-0070,MN8-018,2025-12-26,2026-01-28,Interconnection delay,Medium,Closed,17,92890.0,Development,No
+ISS-0071,MN8-018,2025-11-22,2025-11-24,Supply chain,Low,Closed,4,0.0,Development,No
+ISS-0072,MN8-018,2025-11-27,2025-12-12,Design revision,Low,Closed,4,58927.0,Construction,No
+ISS-0073,MN8-018,2025-11-23,2025-12-24,Quality rework,Medium,Closed,14,105688.0,Project Controls,No
+ISS-0074,MN8-019,2025-10-20,2025-12-19,Supply chain,High,Open,18,136277.0,Development,No
+ISS-0075,MN8-019,2025-12-09,2026-01-22,Supply chain,Medium,Closed,8,22889.0,Project Controls,No
+ISS-0076,MN8-019,2025-11-08,2025-12-01,Supply chain,Low,Closed,13,47353.0,Development,No
+ISS-0077,MN8-019,2025-08-16,2025-09-26,Design revision,Medium,Open,7,6019.0,Project Controls,No
+ISS-0078,MN8-020,2025-10-11,2025-11-27,Weather,Medium,Closed,11,64717.0,Development,No
+ISS-0079,MN8-020,2025-08-17,2025-09-03,Design revision,Low,Open,9,1115.0,Engineering,No
+ISS-0080,MN8-020,2025-12-25,2026-02-01,Permit approval,Medium,Closed,12,21984.0,Construction,No
+ISS-0081,MN8-021,2025-08-03,2025-09-18,Design revision,Medium,Closed,25,103561.0,Construction,No
+ISS-0082,MN8-021,2025-12-12,2026-01-04,Design revision,Low,Closed,0,31164.0,Development,No
+ISS-0083,MN8-021,2025-12-11,2026-02-02,Equipment lead time,High,Closed,26,153235.0,Construction,Yes
+ISS-0084,MN8-022,2025-08-24,2025-08-29,Equipment lead time,Low,Closed,0,58842.0,Engineering,No
+ISS-0085,MN8-022,2025-09-07,2025-10-19,Supply chain,High,Closed,22,189476.0,Construction,Yes
+ISS-0086,MN8-022,2025-12-20,2026-01-26,Equipment lead time,Medium,Closed,10,69883.0,Engineering,No
+ISS-0087,MN8-022,2025-10-06,2025-10-31,Supply chain,Low,Closed,2,28605.0,Development,No
+ISS-0088,MN8-023,2025-08-18,2025-08-20,Interconnection delay,Low,Closed,3,87331.0,Project Controls,No
+ISS-0089,MN8-023,2025-08-28,2025-10-03,Design revision,Medium,Closed,18,99830.0,Procurement,No
+ISS-0090,MN8-024,2025-09-02,2025-10-15,Weather,Medium,Closed,20,34027.0,Construction,No
+ISS-0091,MN8-024,2025-11-03,2025-11-23,Interconnection delay,Low,Closed,0,0.0,Engineering,No
+ISS-0092,MN8-024,2025-10-03,2025-11-23,Permit approval,High,Open,23,192302.0,Engineering,Yes
+ISS-0093,MN8-024,2025-12-26,2026-01-26,Contractor productivity,Medium,Closed,16,50911.0,Development,No
