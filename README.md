@@ -4,7 +4,7 @@ A portfolio project tailored to the **MN8 Energy Data Analytics Intern** posting
 
 This project simulates how an EPMO or enterprise analytics team could use project, schedule, risk, engineering, and financial data to support **data-driven decisions across solar PV and battery storage programs**.
 
-> **Important:** the datasets in this repo are synthetic and were created for portfolio demonstration only.
+> **Important:** the datasets in this repo are synthetic
 
 ## Project goals
 
@@ -22,21 +22,6 @@ This project simulates how an EPMO or enterprise analytics team could use projec
 - Jupyter Notebook
 - Excel dashboard
 - Git/GitHub
-
-## Folder structure
-
-```text
-mn8_energy_portfolio_analytics_project/
-├── README.md
-├── data/
-│   ├── raw/
-│   └── clean/
-├── notebooks/
-├── scripts/
-├── visuals/
-├── dashboard/
-└── docs/
-```
 
 ## Dataset overview
 
@@ -69,31 +54,9 @@ The project includes three synthetic datasets:
 - Weather: 219 impact days
 - Design revision: 153 impact days
 
-## Files worth highlighting in interviews
-
-- `notebooks/mn8_portfolio_analytics.ipynb` for exploratory analysis
-- `scripts/analysis.py` for repeatable analysis and chart generation
-- `dashboard/mn8_portfolio_dashboard.xlsx` for PMO-style dashboard reporting
-- `docs/key_findings.md` for executive summary style findings
-
-## Resume-ready project description
+## project description
 
 Built a renewable energy portfolio analytics project using Python, Excel, and synthetic solar and battery storage data to analyze schedule variance, budget performance, issue root causes, and PMO-style KPIs; created dashboards and business recommendations to support enterprise project reporting.
-
-## How this maps to the MN8 role
-
-This project was designed to mirror the internship's focus on:
-
-- project performance analytics
-- engineering and financial data analysis
-- dashboard reporting
-- root-cause investigations
-- cross-functional business communication
-- process and governance support
-
-## Next improvements
-
-- Add Power BI or Tableau version of the dashboard
-- Add KPI filters by region, project stage, and technology
+ilters by region, project stage, and technology
 - Build a project risk scoring model
 - Simulate telemetry or SCADA-style operational data for a more technical energy use case
